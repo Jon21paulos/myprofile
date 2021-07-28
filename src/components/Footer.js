@@ -12,13 +12,13 @@ export default function Footer() {
                     <div class="sm:flex sm:mt-8">
                         <div class="mt-8 sm:mt-0 sm:w-full sm:px-8 flex flex-col md:flex-row justify-between">
                             <div class="flex flex-col">
-                                <span class="my-2"><a target="_blank" href="https://github.com/Jon21paulos" class="text-3xl hover:text-blue-500"><i class="fab fa-github"></i></a></span>
+                                <span class="my-2"><a  href="https://github.com/Jon21paulos" class="text-3xl hover:text-blue-500"><i class="fab fa-github"></i></a></span>
                             </div>
                             <div class="flex flex-col">
-                                <span class="my-2"><a target="_blank" href="https://linkedin.com/in/yohannes-paulos-1a5451211" class="text-3xl hover:text-blue-500"><i class="fab fa-linkedin"></i></a></span>
+                                <span class="my-2"><a  href="https://linkedin.com/in/yohannes-paulos-1a5451211" class="text-3xl hover:text-blue-500"><i class="fab fa-linkedin"></i></a></span>
                             </div>
                             <div class="flex flex-col">
-                                <span class="my-2"><a target="_blank" href="https://t.me/Jon21paulos" class="text-3xl  hover:text-blue-500"><i class="fab fa-telegram-plane"></i></a></span>
+                                <span class="my-2"><a  href="https://t.me/Jon21paulos" class="text-3xl  hover:text-blue-500"><i class="fab fa-telegram-plane"></i></a></span>
                             </div>
                         </div>
                     </div>
