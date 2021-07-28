@@ -6,7 +6,7 @@ export default function Navbar() {
     <header className="bg-gray-800 md:sticky top-0 z-10">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
          <div >
-           <img className="rounded-full h-14 w-14 flex items-center justify-center" src="https://media-exp1.licdn.com/dms/image/C5603AQEt1eh--s6Yzw/profile-displayphoto-shrink_200_200/0/1619807132811?e=1632960000&v=beta&t=LrKYppHWEe3jBJrcayLYNpRZfH24spBignMP1FGEOFg" />
+           <img  alt="smt" className="rounded-full h-14 w-14 flex items-center justify-center" src="https://media-exp1.licdn.com/dms/image/C5603AQEt1eh--s6Yzw/profile-displayphoto-shrink_200_200/0/1619807132811?e=1632960000&v=beta&t=LrKYppHWEe3jBJrcayLYNpRZfH24spBignMP1FGEOFg" />
          </div>
         <a className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-xl">
