@@ -8,11 +8,11 @@ export default function Navbar() {
          <div >
            <img  alt="smt" className="rounded-full h-14 w-14 flex items-center justify-center" src="https://media-exp1.licdn.com/dms/image/C5603AQEt1eh--s6Yzw/profile-displayphoto-shrink_200_200/0/1619807132811?e=1632960000&v=beta&t=LrKYppHWEe3jBJrcayLYNpRZfH24spBignMP1FGEOFg" />
          </div>
-        <a className="title-font font-medium text-white mb-4 md:mb-0">
+        <div className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-xl">
             Yohannes paulos
           </a>
-        </a>
+        </div>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
           <a href="#projects" className="mr-5 hover:text-white">
             Past Work
