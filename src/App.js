@@ -10,7 +10,7 @@ import Footer from "./components/Footer"
 export default function App() {
   return (
     <div>
-      <main className="text-gray-400  ">
+      <main className="text-gray  ">
         <Navbar />
         <About />
         <Projects />
